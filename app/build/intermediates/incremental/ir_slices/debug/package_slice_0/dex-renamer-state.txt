@@ -1,0 +1,4 @@
+#Wed Feb 20 12:35:03 EET 2019
+base.0=C\:\\Users\\Mohammed\\AndroidStudioProjects\\FragmentProgrammaticLayout\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
